@@ -206,7 +206,7 @@ defaults:
       type: posts
     values:
       layout: article
-      author: zorch
+      author: snowflake
       sharing: true
       license: true
       aside:
